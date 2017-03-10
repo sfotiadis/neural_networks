@@ -1,2 +1,4 @@
-# neural_networks
-Mini project to understand back propagation and NN training
+# Neural Networks and Deep Learning
+
+Mini project to understand deeply back propagation and NN training
+Following the material form http://neuralnetworksanddeeplearning.com/
